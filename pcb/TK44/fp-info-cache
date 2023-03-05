@@ -1,4 +1,4 @@
-21432893564452341
+21434586823008282
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -89010,6 +89010,13 @@ MX-Alps-Omron-Hitek-Futaba-MA-1U-REV
 
 0
 17
+2
+kbd_master
+MX-Alps-Omron-SKCC-Hitek-Futaba-MA-1U-REV
+
+
+0
+21
 2
 kbd_master
 MX-HS-1U-REV
