@@ -1,4 +1,4 @@
-21471012452104449
+21472696099164029
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83117,6 +83117,13 @@ SOT-23-5
 0
 5
 5
+TK44
+SW_SPST_EVQP7C
+Light Touch Switch
+
+0
+4
+2
 TK44
 Sign
 

@@ -5022,7 +5022,7 @@
     (property "Value" "SW_Push" (at 156.845 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7C" (at 156.845 97.155 0)
+    (property "Footprint" "TK44:SW_SPST_EVQP7C" (at 156.845 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.845 97.155 0)
